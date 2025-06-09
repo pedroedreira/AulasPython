@@ -5,3 +5,5 @@ while True:
     continuar = input("Deseja inserir mais um cadastro? Caso SIM digite [S], para NÃO digite [N]")
     if continuar == "N":
         break
+print(f"Produto: {nomeProduto}")
+print(f"Quantidade: {qtd}")
